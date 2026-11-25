@@ -1,12 +1,6 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36BCF7&height=220&section=header&text=RUCHITA%20DHOKARE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=18" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AWS+Cloud+%7C+DevOps;Linux+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Infrastructure+as+Code;Learning+%26+Building+Every+Day" />
-
-</div>
-
----
+<p align="center">
+  <img src="./devops-banner.png" width="100%" alt="DevOps Cloud Engineering Banner"/>
+</p>
 
 ## ✦ ABOUT ME
 
