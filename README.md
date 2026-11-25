@@ -14,7 +14,6 @@
 - 🎓 MCA Student
 - ☁️ Interested in AWS Cloud & DevOps
 - 🐧 Hands-on experience with Linux Administration
-- 🚀 9 Months of Cloud & DevOps Internship Experience
 - 🔧 Interested in CI/CD, Automation & Cloud Infrastructure
 
 ## 🛠️ Tech Stack
@@ -49,5 +48,7 @@ EC2 | S3 | IAM | VPC | EBS | RDS | CloudWatch | CloudFront | Route53 | ELB | Aut
 - 🐙 [GitHub](https://github.com/dhokareruchita20)
 
 ---
+## 🐍 GitHub Contribution Snake
 
+![Snake Animation](https://raw.githubusercontent.com/dhokareruchita20/output/output/github-contribution-grid-snake.svg)
 <p align="center">⭐ Thanks for visiting my profile!</p>
